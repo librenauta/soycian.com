@@ -1,0 +1,7 @@
+.bundle/
+.sass-cache/
+_site
+Gemfile
+Gemfile.lock
+install.sh
+agregarpost.md
